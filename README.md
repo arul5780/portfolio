@@ -136,7 +136,7 @@ This project is open source and available under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- Profile and project images generated with AI
+- Project images generated with AI
 - Icons from Lucide React
 - Animations powered by Framer Motion
 - Built with React and Vite
